@@ -103,3 +103,12 @@ DGEMM
 HPCG
 HPL
 IOPM
+amdclang
+asan
+complier
+fsanitize
+ldd
+libclang
+libsan
+readelf
+xnack
